@@ -16,7 +16,7 @@ _ = require 'underscore'
 Twit = require 'twit'
 config =
   consumer_key: 'gZGCwAlPwrdbSjVrwl5FSq3HT'
-  consumer_secret: 'zjzUQTv6vCwsTmn6oEhdsaZcFYiZmO3weXGlTaPnMH3veyHWbE'
+  consumer_secret: 'xOpS4zbinVVSCR6Gs6gtPT7JPit0tujYRPSheMlpDld8Dqv9VD'
   access_token: 'xOpS4zbinVVSCR6Gs6gtPT7JPit0tujYRPSheMlpDld8Dqv9VD'
   access_token_secret: '1xx78ADWZgf6WxzadtNphsmyhyQUhWr34oFXArL04S8kf'
 
