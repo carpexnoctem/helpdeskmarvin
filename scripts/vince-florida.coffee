@@ -14,10 +14,10 @@
 _ = require 'underscore'
 Twit = require 'twit'
 config =
-  consumer_key: ' gZGCwAlPwrdbSjVrwl5FSq3HT'
-  consumer_secret: ' xOpS4zbinVVSCR6Gs6gtPT7JPit0tujYRPSheMlpDld8Dqv9VD'
-  access_token: ' 3275213096-ryNgNrtehRy2ZyCGPuVkvkW9rhmGIzZOc48ISaj'
-  access_token_secret: ' 1xx78ADWZgf6WxzadtNphsmyhyQUhWr34oFXArL04S8kf'
+  consumer_key: 'gZGCwAlPwrdbSjVrwl5FSq3HT'
+  consumer_secret: 'xOpS4zbinVVSCR6Gs6gtPT7JPit0tujYRPSheMlpDld8Dqv9VD'
+  access_token: '3275213096-ryNgNrtehRy2ZyCGPuVkvkW9rhmGIzZOc48ISaj'
+  access_token_secret: '1xx78ADWZgf6WxzadtNphsmyhyQUhWr34oFXArL04S8kf'
 
 module.exports = (robot) ->
   twit = new Twit config
